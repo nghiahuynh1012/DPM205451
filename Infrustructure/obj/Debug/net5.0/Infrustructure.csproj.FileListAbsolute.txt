@@ -1,0 +1,12 @@
+D:\UngDung\ASP.NET\learnX\Infrustructure\bin\Debug\net5.0\Infrustructure.deps.json
+D:\UngDung\ASP.NET\learnX\Infrustructure\bin\Debug\net5.0\Infrustructure.dll
+D:\UngDung\ASP.NET\learnX\Infrustructure\bin\Debug\net5.0\Infrustructure.pdb
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\Infrustructure.csproj.AssemblyReference.cache
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\Infrustructure.AssemblyInfoInputs.cache
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\Infrustructure.AssemblyInfo.cs
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\Infrustructure.csproj.CoreCompileInputs.cache
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\Infrustructure.dll
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\refint\Infrustructure.dll
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\Infrustructure.pdb
+D:\UngDung\ASP.NET\learnX\Infrustructure\obj\Debug\net5.0\ref\Infrustructure.dll
